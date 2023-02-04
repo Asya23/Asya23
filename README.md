@@ -21,3 +21,6 @@ Phys. Chem. Chem. Phys., 2022,24, 8901-8912. https://doi.org/10.1039/d2cp00647b
 A.V. Malek, **Formation and evaluation of a two-phase polymer system in human plasma as a method for extracellular nanovesicle isolation.**
 Polymers (Basel), 2021, 13(3):1–16. https://doi.org/10.3390/polym13030458
 
+### :floppy_disk: My public python projects:
+
+- [model A/B testing for an online shop landing page](https://github.com/Asya23/AB-test)
