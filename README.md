@@ -20,6 +20,7 @@ Phys. Chem. Chem. Phys., 2022,24, 8901-8912. https://doi.org/10.1039/d2cp00647b
 - M.A. Slyusarenko, N.S. Nikiforova, E. I. Sidina, I.V. Nazarova, V.V. Egorov, Y.P. Garmay, A.A. Merdalimova, N.P. Yevlampieva, D.A. Gorin,
 A.V. Malek, **Formation and evaluation of a two-phase polymer system in human plasma as a method for extracellular nanovesicle isolation.**
 Polymers (Basel), 2021, 13(3):1–16. https://doi.org/10.3390/polym13030458
+- V.Chernyshev, R.Chuprov-Netochin, E.Tsydenzhapova, E.Svirshchevskaya, R.Poltavtseva, A.Merdalimova, A.Yashchenok, A.Keshelava, K.Sorokin, V.Keshelava, G.Sukhikh, D.Gorin, S.Leonov, M.Skliar. **Asymmetric depth-filtration: A versatile and scalable method forhigh-yield isolation of extracellular vesicles with low contamination.** Journal of Extracellular Vesicles, 11, e12256. https://doi.org/10.1002/jev2.12256
 
 ### :floppy_disk: My public python projects:
 
