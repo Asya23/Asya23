@@ -6,6 +6,11 @@
 
 For last 4 years, I'm a researcher in biomedtech field, working in Biophotonics Laboratory, Skoltech. I'm developing diagnostics on liquid biopsy. 
 
+### :floppy_disk: My public data analysis projects on Python:
+
+- [model A/B testing for an online shop landing page](https://github.com/Asya23/AB-test)
+- [Classification of biological cells to cancer and non-cancer ones by their surface-enhanced Raman scattering](https://github.com/Asya23/Raman-SERS-cells-classification)
+
 ### 📜 A list of my publications:
 
 - A.A. Merdalimova, P.G. Rudakovskaya, T.I. Ermatov, A.S. Smirnov, S.S. Kosolobov, J.S.Skibina, P.A. Demina, B.N. Khlebtsov, A.M. Yashchenok, D.A. Gorin,
@@ -22,6 +27,4 @@ A.V. Malek, **Formation and evaluation of a two-phase polymer system in human pl
 Polymers (Basel), 2021, 13(3):1–16. https://doi.org/10.3390/polym13030458
 - V.Chernyshev, R.Chuprov-Netochin, E.Tsydenzhapova, E.Svirshchevskaya, R.Poltavtseva, A.Merdalimova, A.Yashchenok, A.Keshelava, K.Sorokin, V.Keshelava, G.Sukhikh, D.Gorin, S.Leonov, M.Skliar. **Asymmetric depth-filtration: A versatile and scalable method forhigh-yield isolation of extracellular vesicles with low contamination.** Journal of Extracellular Vesicles, 11, e12256. https://doi.org/10.1002/jev2.12256
 
-### :floppy_disk: My public python projects:
 
-- [model A/B testing for an online shop landing page](https://github.com/Asya23/AB-test)
